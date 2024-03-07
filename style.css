@@ -1,0 +1,23 @@
+body{
+    background: #080808;
+    margin: 0;
+}
+.img{
+    justify-content: center;
+    align-items: center;
+    background-image: url(virat.jpg);
+    height:100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0;
+    overflow: hidden;
+    background-size: cover;
+    -webkit-background-clip: text;
+    background-attachment: fixed;
+    -webkit-text-fill-color: rgba(225, 9, 9, 0);
+}
+p{
+    font-size: 20px;
+}
+   
